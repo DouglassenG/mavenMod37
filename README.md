@@ -1,4 +1,4 @@
-# 📦 Maven & JDBC - Arquitetura de Persistência (Mod 29)
+# 📦 Maven & JDBC - Arquitetura de Persistência 
 
 > Uma aplicação backend estrutural focada na persistência definitiva de dados. O projeto utiliza o Apache Maven como orquestrador de *build* e o driver JDBC nativo para integrar o domínio Java a um Banco de Dados Relacional, garantindo transações seguras e organizadas via padrão DAO.
 
